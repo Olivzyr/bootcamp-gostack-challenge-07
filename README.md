@@ -7,11 +7,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/SkullDarth/bootcamp-gostack-modulos">
-  <img src="https://img.shields.io/github/forks/SkullDarth/bootcamp-gostack-modulos">
+  <img src="https://img.shields.io/github/issues/SkullDarth/bootcamp-gostack-challenge-07">
+  <img src="https://img.shields.io/github/forks/SkullDarth/bootcamp-gostack-challenge-07">
   <img src="https://img.shields.io/badge/made%20by-SkullDarth-lightgrey">
-  <img src="https://img.shields.io/github/stars/SkullDarth/bootcamp-gostack-modulos">
-  <img src="https://img.shields.io/github/license/SkullDarth/bootcamp-gostack-modulos">
+  <img src="https://img.shields.io/github/stars/SkullDarth/bootcamp-gostack-challenge-07">
+  <img src="https://img.shields.io/github/license/SkullDarth/bootcamp-gostack-challenge-07">
 
 
   <!-- Indice personalizado -->
