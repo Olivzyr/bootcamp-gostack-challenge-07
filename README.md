@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://skylab.rocketseat.com.br/api/files/1564682455579.svg",>
+  <img src="https://skylab.rocketseat.com.br/api/files/1564682425906.svg",>
 </p>
 <br />
 
@@ -15,7 +16,7 @@
 
   <!-- Indice personalizado -->
   <p align="center">
-      <a href="#about-this-module">About this module</a>
+      <a href="#about-this-module">About this Challenge</a>
       <strong>|</strong>
       <a href="#resources-and-procedures">Resources and Procedures</a>
       <strong>|</strong>
@@ -26,7 +27,7 @@
       <a href="#license">License</a>
       <br />
       <br />
-      <p align="center"> <strong>GoStack - Module 07: Flux Arquiteture</strong></p>
+      <p align="center"> <strong>GoStack - Challenge 07: Flux Architecture</strong></p>
    </p>
 
 </p>
@@ -34,8 +35,8 @@
    > "Success is not the result of a game, but the destiny of a journey." !
 
 ---
-## **About this module**
-#### **Study concepts present in Flux to use in another projects and show how created one project from scratch using this arquiteture .**
+## **About this challenge**
+#### **Study concepts present in Flux architecture to use in another projects and show how created one project from scratch using this arquiteture and react native framework.**
 ---
 # Resources and Procedures
 ---
