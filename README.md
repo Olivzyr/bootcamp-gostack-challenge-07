@@ -16,7 +16,7 @@
 
   <!-- Indice personalizado -->
   <p align="center">
-      <a href="#about-this-module">About this Challenge</a>
+      <a href="#about-this-module">About this challenge</a>
       <strong>|</strong>
       <a href="#resources-and-procedures">Resources and Procedures</a>
       <strong>|</strong>
