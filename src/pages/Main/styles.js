@@ -3,7 +3,6 @@ import { RectButton } from 'react-native-gesture-handler';
 
 export const Container = styled.View`
   flex: 1;
-  padding: 30px;
   background: #191920;
 `;
 
@@ -17,8 +16,9 @@ export const Product = styled.View`
   background-color: #fff;
   width: 220px;
   height: 350px;
-  justify-content: space-between;
+  margin-left: 15px;
   padding: 10px;
+  border-radius: 4px;
 `;
 
 export const Image = styled.Image`
@@ -64,5 +64,5 @@ export const ItemCount = styled.Text`
 export const CartButtonText = styled.Text`
   font-size: 16px;
   color: #fff;
-  padding-right: 100px;
+  padding-right: 36px;
 `;

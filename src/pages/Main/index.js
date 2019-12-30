@@ -27,6 +27,12 @@ export default function Main() {
               'https://static.netshoes.com.br/produtos/tenis-vr-sneaker-meia-leve/06/E74-0492-006/E74-0492-006_zoom1.jpg',
             price: 'R$179,90',
           },
+          {
+            title: 'Tênis de Caminhada Leve Confortável',
+            img:
+              'https://static.netshoes.com.br/produtos/tenis-vr-sneaker-meia-leve/06/E74-0492-006/E74-0492-006_zoom1.jpg',
+            price: 'R$179,90',
+          },
         ]}
         renderItem={({ item }) => (
           <Product>
