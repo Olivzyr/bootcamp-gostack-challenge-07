@@ -32,6 +32,7 @@ export const ProductTitle = styled.Text`
 `;
 
 export const ProductPrice = styled.Text`
+  font-weight: bold;
   font-size: 21px;
   padding-left: 10px;
 `;
@@ -62,5 +63,6 @@ export const ItemCount = styled.Text`
 
 export const CartButtonText = styled.Text`
   font-size: 16px;
-  padding-left: 36px;
+  color: #fff;
+  padding-right: 100px;
 `;
