@@ -29,6 +29,7 @@ export const Image = styled.Image`
 export const ProductTitle = styled.Text`
   font-size: 16px;
   padding-left: 10px;
+  font-family: Roboto;
 `;
 
 export const ProductPrice = styled.Text`
@@ -58,6 +59,7 @@ export const ItemCart = styled.View`
 
 export const ItemCount = styled.Text`
   font-size: 14px;
+  padding-left: 2px;
   color: #ffffff;
 `;
 
