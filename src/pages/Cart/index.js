@@ -14,7 +14,7 @@ export default function Cart() {
             image: '',
             title: '',
             price: '',
-            // productTotalPrice: '',
+            productTotalPrice: '',
           },
         ]}
       />
